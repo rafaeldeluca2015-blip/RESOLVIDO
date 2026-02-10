@@ -19,7 +19,7 @@ export default function Projects() {
     'Projeto Alto Padrão de iluminação, elétrica e climatização, infraestrutura completa.',
   specs: 'Projeto Elétrico · Subestação · BMS',
   video:
-    'https://res.cloudinary.com/downfwgxg/video/upload/f_auto,q_auto,vc_auto,w_900/ape_mf8tlq',
+    'https://res.cloudinary.com/downfwgxg/video/upload/f_auto,q_auto,vc_auto,w_900/SnapInsta.to_AQPSwJsI9HENGTPP381p2zNNWXOUOqYvoohiVLGY7-MygRkD4kYQsM4Y9CDTxsZOpJGXSkgnbczu-p7zyZON7Og9ImrVkKZrCbtI7AM_isaafs',
 },
 
     {
@@ -28,7 +28,7 @@ export default function Projects() {
         'Sistema elétrico completo para centro comercial incluindo iluminação e segurança elétrica.',
       specs: 'Alta Tensão · Iluminação',
       video:
-        'https://res.cloudinary.com/downfwgxg/video/upload/v1767572683/shopping_aobr6m.mp4',
+        'https://res.cloudinary.com/downfwgxg/video/upload/f_auto,q_auto,vc_auto,w_900/SnapInsta.to_AQPum8ol-vtyYx0XzpuXdTmHWjlSnELywMULO0QZDV0iytIzilbAb3JD3ED5xDxSh724g3qchTKSSS1SLP8VvkbewD2h9SG64gCr1r0_mnycnv',
     },
   ];
 
